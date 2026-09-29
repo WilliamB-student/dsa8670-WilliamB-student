@@ -6,4 +6,4 @@ Major / program: Data Science and Analytics
 
 Favorite dataset or industry interest: Not completely related but I always enjoy learning a new sorting algorithm.
 
-One reason I am studying analytics:
+One reason I am studying analytics: I want to improve my data literacy so I can understand other people's data analytics better.
