@@ -73,3 +73,10 @@ By the end of Week 5, you should be able to:
 ## License
 
 This repository uses the MIT License (see `LICENSE`).
+
+Why version control matters for analytics.
+
+In analytics, version control matters because analytics exists as an iterative process.
+It's much easier to go back and start from some earlier point if there's a clearly defined earlier version to use.
+Additionally, analytics is team-based and if two people work on a main branch simultaneously, they could overwrite each other's code and waste time and effort.
+Using version control helps make sure each team member knows exactly what is being added to the project and gives a chance to review changes.
